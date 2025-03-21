@@ -1,0 +1,70 @@
+.pageTitle {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: var(--primary-color);
+}
+
+.pageDescription {
+  font-size: 1.2rem;
+  color: var(--dark-gray);
+  margin-bottom: 2rem;
+}
+
+.articlesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.articleCard {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.articleCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.articleTitle {
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.articleTitle a {
+  color: var(--primary-color);
+}
+
+.articleTitle a:hover {
+  color: var(--secondary-color);
+  text-decoration: none;
+}
+
+.articleMeta {
+  font-size: 0.9rem;
+  color: var(--dark-gray);
+  margin-bottom: 1rem;
+}
+
+.articleExcerpt {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.articleTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: auto;
+}
+
+.tag {
+  background-color: var(--light-gray);
+  color: var(--dark-gray);
+  padding: 0.15rem 0.5rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+}

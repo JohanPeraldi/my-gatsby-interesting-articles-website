@@ -3,8 +3,18 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `My Gatsby Interesting Articles Website`,
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `Feel-good articles`,
+    siteUrl: `https://feel-good-articles.netlify.app/`,
+    description: "A curation of positive news from around the web",
   },
-  plugins: [],
+  plugins: [
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `articles`,
+        path: `${__dirname}/src/content/articles`,
+      },
+    },
+    `gatsby-transformer-remark`,
+  ],
 }
