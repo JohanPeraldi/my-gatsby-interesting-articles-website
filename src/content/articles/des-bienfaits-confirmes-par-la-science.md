@@ -4,14 +4,12 @@ sourceName: 'Libération'
 sourceUrl: 'https://journal.liberation.fr/'
 originalDate: '2025-03-21'
 curationDate: '2025-03-21'
-category: 'Environment'
+category: 'environment'
 tags: ['bird conservation', 'ornithotherapy', 'mental health']
 excerpt: 'De récentes études scientifiques viennent confirmer une immuable intuition : le chant des merles, pinsons ou mésanges a un effet bénéfique sur le bien-être et la santé mentale.'
 ---
 
-# Des bienfaits confirmés par la science
-
-## De récentes études scientifiques viennent confirmer une immuable intuition : le chant des merles, pinsons ou mésanges a un effet bénéfique sur le bien-être et la santé mentale.
+**De récentes études scientifiques viennent confirmer une immuable intuition : le chant des merles, pinsons ou mésanges a un effet bénéfique sur le bien-être et la santé mentale.**
 
 Par Coralie Schaub
 

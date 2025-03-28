@@ -4,14 +4,12 @@ sourceName: 'Libération'
 sourceUrl: 'https://journal.liberation.fr/'
 originalDate: '2025-03-21'
 curationDate: '2025-03-21'
-category: 'Environment'
+category: 'environment'
 tags: ['bird conservation', 'ornithotherapy', 'mental health']
-excerpt: 'La mélodie flûtée d’un merle, le chant d’une alouette ou le vol d’un goéland ont le pouvoir de nous apaiser, nous réconforter, nous alléger l’existence. Il suffit de prêter attention à ces oiseaux, de réapprendre à les écouter et à les regarder, vraiment. C’est ce dont témoignent la naturaliste Elise Rousseau et l’écologue et ornithologue Philippe J. Dubois dans Ornithérapie, un ouvrage enthousiasmant et ô combien précieux et bienvenu en ces temps incertains, inquiétants, oppressants.'
+excerpt: 'La mélodie flûtée d’un merle, le chant d’une alouette ou le vol d’un goéland ont le pouvoir de nous apaiser, nous réconforter, nous alléger l’existence. Il suffit de prêter attention à ces oiseaux, de réapprendre à les écouter et à les regarder, vraiment.'
 ---
 
-# Protéger les oiseaux, c'est nous protéger nous-mêmes
-
-## La naturaliste Elise Rousseau et l’ornithologue Philippe J. Dubois démontrent à quel point alouettes, rouges-gorges ou moineaux peuvent aider à fuir le tragique de l’actualité.
+**La naturaliste Elise Rousseau et l’ornithologue Philippe J. Dubois démontrent à quel point alouettes, rouges-gorges ou moineaux peuvent aider à fuir le tragique de l’actualité.**
 
 Recueilli par Coralie Schaub
 
