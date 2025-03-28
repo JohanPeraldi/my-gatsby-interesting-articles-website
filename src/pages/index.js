@@ -1,6 +1,7 @@
 import * as React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
+import Seo from "../components/seo"
 import * as styles from "../styles/articleList.module.css"
 
 const IndexPage = ({ data }) => {
@@ -58,3 +59,12 @@ export const query = graphql`
 `
 
 export default IndexPage
+
+export const Head = () => {
+  try {
+    return <Seo title="Home" />    
+  } catch (error) {
+    console.error("Error rendering Seo component:", error)
+    return <title>Positive News Curation - Home</title>
+  }
+}

@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
+import Seo from "../components/seo"
 import * as styles from "../styles/article.module.css"
 
 const ArticleTemplate = ({ data }) => {
@@ -58,3 +59,14 @@ export const query = graphql`
 `
 
 export default ArticleTemplate
+
+export const Head = ({ data }) => {
+  try {
+    const { markdownRemark } = data
+    const { frontmatter } = markdownRemark
+    return <Seo title={frontmatter.title} description={frontmatter.excerpt} />
+  } catch (error) {
+    console.error("Error rendering Seo component:", error)
+    return <title>Positive News Curation</title>
+  }
+}
