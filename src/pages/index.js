@@ -9,7 +9,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <h1 className={styles.pageTitle}>Feel-good Articles</h1>
-      <p className={styles.pageDescription}>A collection of uplifting and interesting articles from around the web.</p>
+      <p className={styles.pageDescription}>A collection of positive and inspiring articles from around the web.</p>
       
       <div className={styles.articlesGrid}>
         {articles.map(article => (
