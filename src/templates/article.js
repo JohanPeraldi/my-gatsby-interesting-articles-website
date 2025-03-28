@@ -11,7 +11,7 @@ const ArticleTemplate = ({ data }) => {
     <Layout>
       <div className={styles.articleContainer}>
         <header className={styles.articleHeader}>
-          <h1 className={styles.articleTitle}>{frontmatter.title}</h1>
+          <h2 className={styles.articleTitle}>{frontmatter.title}</h2>
           <p className={styles.sourceInfo}>
             From: <a href={frontmatter.sourceUrl} target="_blank" rel="noopener noreferrer">
               {frontmatter.sourceName}
@@ -47,8 +47,8 @@ export const query = graphql`
         title
         sourceName
         sourceUrl
-        originalDate(formatString: "MMMM DD, YYYY")
-        curationDate(formatString: "MMMM DD, YYYY")
+        originalDate(formatString: "DD MMMM YYYY")
+        curationDate(formatString: "DD MMMM YYYY")
         category
         tags
         excerpt

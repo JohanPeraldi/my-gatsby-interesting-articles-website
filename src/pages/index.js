@@ -8,17 +8,17 @@ const IndexPage = ({ data }) => {
   
   return (
     <Layout>
-      <h1 className={styles.pageTitle}>Feel-good Articles</h1>
+      <h2 className={styles.pageTitle}>Feel-good Articles</h2>
       <p className={styles.pageDescription}>A collection of positive and inspiring articles from around the web.</p>
       
       <div className={styles.articlesGrid}>
         {articles.map(article => (
           <article key={article.id} className={styles.articleCard}>
-            <h2 className={styles.articleTitle}>
+            <h3 className={styles.articleTitle}>
               <Link to={`/article${article.fields?.slug}`}>
                 {article.frontmatter.title}
               </Link>
-            </h2>
+            </h3>
             <p className={styles.articleMeta}>
               From: {article.frontmatter.sourceName} • 
               Category: {article.frontmatter.category}
@@ -50,7 +50,7 @@ export const query = graphql`
           category
           tags
           excerpt
-          curationDate(formatString: "MMMM DD, YYYY")
+          curationDate(formatString: "DD MMMM YYYY")
         }
       }
     }
