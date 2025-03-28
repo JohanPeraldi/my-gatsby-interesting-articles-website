@@ -14,7 +14,7 @@ const Layout = ({ children }) => {
       <main>{children}</main>
       
       <footer className="site-footer">
-        <p>© {new Date().getFullYear()} Johan's Positive News Curation</p>
+        <p>&copy; {new Date().getFullYear()} Positive News Curation</p>
         <p>Sharing positive stories from around the web</p>
       </footer>
     </div>
