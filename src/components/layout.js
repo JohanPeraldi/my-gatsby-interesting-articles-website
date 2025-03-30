@@ -11,14 +11,14 @@ const Layout = ({ children }) => {
           <Link to="/" className="logo-link">
             <StaticImage
               src="../images/logo.png"
-              alt="Positive News Curation Logo"
+              alt="Optimist Vibe Logo"
               placeholder="blurred"
               layout="fixed"
               width={40}
               height={40}
               className="logo-image"
             />
-            <h1>Positive News Curation</h1>
+            <h1>Optimist Vibe</h1>
           </Link>
         </div>
       </header>
@@ -26,7 +26,7 @@ const Layout = ({ children }) => {
       <main>{children}</main>
       
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()} Positive News Curation</p>
+        <p>&copy; {new Date().getFullYear()} Optimist Vibe</p>
         <p>Sharing positive stories from around the web</p>
       </footer>
     </div>

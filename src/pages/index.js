@@ -65,6 +65,6 @@ export const Head = () => {
     return <Seo title="Home" />    
   } catch (error) {
     console.error("Error rendering Seo component:", error)
-    return <title>Positive News Curation - Home</title>
+    return <title>Optimist Vibe - Home</title>
   }
 }

@@ -3,7 +3,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Positive News Curation`,
+    title: `Optimist Vibe`,
     siteUrl: `https://feel-good-articles.netlify.app/`,
     description: "A curation of positive news from around the web",
   },
