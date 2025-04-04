@@ -60,11 +60,4 @@ export const query = graphql`
 
 export default IndexPage
 
-export const Head = () => {
-  try {
-    return <Seo title="Home" />    
-  } catch (error) {
-    console.error("Error rendering Seo component:", error)
-    return <title>Optimist Vibe - Home</title>
-  }
-}
+export const Head = () => <Seo title="Home" />
