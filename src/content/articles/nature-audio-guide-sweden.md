@@ -15,4 +15,4 @@ excerpt: 'While humans are more boisterous than ever, other species are talking 
   <img src="/img/maddie-fischer-collage.jpg" alt="Illustrations by Maddie Fischer for The Guardian" title="Illustrations by Maddie Fischer for The Guardian" />
 </a>
 
-[Link to original article](https://www.theguardian.com/science/ng-interactive/2025/mar/29/nature-audio-guide-sweden)
+<a href="https://www.theguardian.com/science/ng-interactive/2025/mar/29/nature-audio-guide-sweden" target="_blank" rel="noopener noreferrer">Link to original article</a>
