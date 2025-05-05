@@ -80,7 +80,7 @@ const FrenchArticlesPage = ({ data }) => {
   )
 }
 
-export const Head = () => <Seo title="Articles en Français" />
+export const Head = () => <Seo title="Accueil" />
 
 export const query = graphql`
   query {
