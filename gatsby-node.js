@@ -37,15 +37,32 @@ exports.createPages = async ({ graphql, actions }) => {
 }
 
 // Create slugs for articles
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  
+  createTypes(`
+    type MarkdownRemarkFields {
+      language: String
+      slug: String
+    }
+  `)
+}
+
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
   if (node.internal.type === `MarkdownRemark`) {
+    const language = node.fileAbsolutePath.includes('/fr/') ? 'fr' : 'en'
     const slug = createFilePath({ node, getNode, basePath: `content/articles` })
     createNodeField({
       node,
       name: `slug`,
       value: slug,
+    })
+    createNodeField({
+      node,
+      name: `language`,
+      value: language,
     })
   }
 }

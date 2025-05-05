@@ -9,8 +9,11 @@ const IndexPage = ({ data }) => {
   
   return (
     <Layout>
-      <h2 className={styles.pageTitle}>Feel-good Articles</h2>
+      <h2 className={styles.pageTitle}>Articles in English</h2>
       <p className={styles.pageDescription}>A collection of positive and inspiring articles from around the web.</p>
+      <p className={styles.languageLink}>
+        <Link to="/fr">Articles in French</Link>
+      </p>
       
       <div className={styles.articlesGrid}>
         {articles.map(article => (
@@ -39,7 +42,7 @@ const IndexPage = ({ data }) => {
 
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: {frontmatter: {curationDate: DESC}}) {
+    allMarkdownRemark(sort: {frontmatter: {curationDate: DESC}}, filter: {fileAbsolutePath: {regex: "/content/articles/en/"}}) {
       nodes {
         id
         fields {
