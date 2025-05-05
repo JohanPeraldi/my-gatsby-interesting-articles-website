@@ -52,6 +52,31 @@
   font-size: 1.1rem;
 }
 
+/* Article link styling */
+.articleContent a:not(:has(img)) {
+  color: var(--secondary-color);
+  border-bottom: 2px solid var(--accent-color);
+  transition: background-color 0.2s ease, color 0.2s ease;
+  padding: 2px 4px;
+  margin: 0 -4px;
+}
+
+.articleContent a:not(:has(img)):hover {
+  background-color: var(--accent-color);
+  color: white;
+  text-decoration: none;
+}
+
+.articleContent a:not(:has(img)):focus {
+  outline: 2px solid var(--accent-color);
+  outline-offset: 2px;
+}
+
+/* Style for linked images */
+.articleContent a:has(img) {
+  text-decoration: none;
+}
+
 .articleContent a img {
   max-width: 100%;
   height: auto;
