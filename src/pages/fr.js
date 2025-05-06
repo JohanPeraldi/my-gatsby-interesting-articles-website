@@ -45,7 +45,6 @@ const translateTag = (tag) => {
 
 const FrenchArticlesPage = ({ data }) => {
   const articles = data.allMarkdownRemark?.nodes || []
-  console.log('French Articles:', JSON.stringify(articles, null, 2))
   
   return (
     <Layout>

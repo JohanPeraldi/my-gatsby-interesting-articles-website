@@ -56,9 +56,6 @@ const ArticleTemplate = ({ data }) => {
   const translatedCategory = language === 'fr' ? translateCategory(frontmatter.category) : frontmatter.category
   const translatedTags = language === 'fr' ? frontmatter.tags?.map(translateTag) : frontmatter.tags
   
-  console.log('Translated Category:', translatedCategory)
-  console.log('Translated Tags:', translatedTags)
-  
   return (
     <Layout>
       <div className={styles.articleContainer}>
