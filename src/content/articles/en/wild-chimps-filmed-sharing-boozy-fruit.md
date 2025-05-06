@@ -54,7 +54,7 @@ The impact of alcohol on chimps’ metabolism is unknown. But recent discoveries
 
 “If so, it suggests the human tradition of feasting may have its origins deep in our evolutionary history.”
 
-To find out more about this research project, visit [https://cantanhezchimpanzeeproject.com/](https://cantanhezchimpanzeeproject.com/)
+To find out more about this research project, visit [the Cantanhez Chimpanzee Project's website](https://cantanhezchimpanzeeproject.com/).
 
 Bowland’s work was funded by the Primate Society of Great Britain.
 
