@@ -98,7 +98,29 @@ h6 {
   color: #666;
 }
 
+/* Force long URLs in article content to break and wrap */
+.articleContent a {
+  overflow-wrap: break-word !important;
+  word-break: break-all !important;
+  word-break: break-word !important;
+  hyphens: auto !important;
+}
+
+main a {
+  overflow-wrap: break-word !important;
+  word-break: break-all !important;
+  word-break: break-word !important;
+  hyphens: auto !important;
+}
+
 /* Footer styling */
+.site-footer {
+  background-color: var(--light-gray);
+  padding: 2rem;
+  margin-top: auto;
+  text-align: center;
+  color: var(--dark-gray);
+}
 .site-footer {
   background-color: var(--light-gray);
   padding: 2rem;
