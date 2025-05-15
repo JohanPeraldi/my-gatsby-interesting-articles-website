@@ -3,45 +3,7 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../styles/article.module.css"
-
-const translateCategory = (category) => {
-  if (!category) return category
-
-  const categoryTranslations = {
-    'nature': 'nature',
-    'environment': 'environnement',
-    'wildlife': 'faune',
-    'conservation': 'conservation',
-    'ecology': 'écologie'
-  }
-  
-  const lowercaseCategory = category.toLowerCase()
-  return categoryTranslations[lowercaseCategory] || category
-}
-
-const translateTag = (tag) => {
-  if (!tag) return tag
-
-  const tagTranslations = {
-    'positive news': 'nouvelles positives',
-    'sustainability': 'durabilité',
-    'climate': 'climat',
-    'biodiversity': 'biodiversité',
-    'global warming': 'réchauffement climatique',
-    'animals': 'animaux',
-    'horses': 'chevaux',
-    'plants': 'plantes',
-    'moss': 'mousses',
-    'flowers': 'fleurs',
-    'tulips': 'tulipes',
-    'bird conservation': 'préservation des oiseaux',
-    'ornithotherapy': 'ornithothérapie',
-    'mental health': 'santé mentale'
-  }
-  
-  const lowercaseTag = tag.toLowerCase()
-  return tagTranslations[lowercaseTag] || tag
-}
+import { translateCategory, translateTag } from '../utils/translations'
 
 const ArticleTemplate = ({ data }) => {
   const { markdownRemark } = data
