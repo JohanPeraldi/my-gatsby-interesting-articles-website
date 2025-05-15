@@ -13,6 +13,7 @@ export const tagTranslations = {
   'global warming': 'réchauffement climatique',
   'animals': 'animaux',
   'horses': 'chevaux',
+  'duck': 'canard',
   'plants': 'plantes',
   'moss': 'mousses',
   'flowers': 'fleurs',
@@ -27,7 +28,8 @@ export const tagTranslations = {
   'cave': 'grotte',
   'homo sapiens': 'Homo sapiens',
   'art': 'art',
-  'paleolithic': 'Paléolithique'
+  'paleolithic': 'Paléolithique',
+  'unusual': 'insolite'
 }
 
 export const categoryTranslations = {
