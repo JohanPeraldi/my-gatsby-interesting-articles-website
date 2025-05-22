@@ -11,10 +11,7 @@ excerpt: 'Pouvant jouer un rôle psychique important en complément d’un parco
 
 **Pouvant jouer un rôle psychique important en complément d’un parcours de soins plus classique, la pratique souffre d’un manque de reconnaissance. Au bois de Boulogne, «Libé» a assisté au déroulement d’une séance avec trois cavaliers.**
 
-<div class="article-figure">
-  <img src="/img/seance-equitherapie.jpg" alt="Lors d’une séance d’équithérapie par l’association Trott’Autrement, à Marolles-en-Brie, en région parisienne, en décembre 2024." class="article-image" />
-  <p class="article-caption">Lors d’une séance d’équithérapie par l’association Trott’Autrement, à Marolles-en-Brie, en région parisienne, en décembre 2024. (Aleister Denni)</p>
-</div>
+![Lors d’une séance d’équithérapie par l’association Trott’Autrement, à Marolles-en-Brie, en région parisienne, en décembre 2024.](./seance-equitherapie.jpg "Lors d’une séance d’équithérapie par l’association Trott’Autrement, à Marolles-en-Brie, en région parisienne, en décembre 2024. (Aleister Denni)")
 
 Par Laura Berthuin
 
@@ -22,10 +19,7 @@ Il est 15h30, ce lundi, quand on franchit l’arche flanquée de l’inscription
 
 Depuis près de cinq ans, Jade pratique l’équithérapie. En situation de handicap depuis la naissance, elle a un retard de croissance qui affecte une partie de ses capacités cognitives. Tous les lundis, elle retrouve Indien, son fidèle compagnon. A ses côtés, elle travaille sa concentration et son autonomie, tout en tissant un véritable lien avec l’animal. Avec elle, Maguelonne, 31 ans, atteinte de trisomie 21, et Quentin, 33 ans, handicapé moteur et mental, partagent ces séances. _«Jade, tu viens, que je t’aide à monter sur le poney»_, intime Virginie, leur équithérapeute. Elle place un escabeau aux pieds d’Indien et tient les rênes pendant que Jade grimpe sur le cheval. Puis, elle répète la même gestuelle pour les deux autres participants, dans une mécanique bien rodée. La séance peut commencer.
 
-<div class="article-figure">
-  <img src="/img/au-centre-equestre-saint-maur-des-fosses.jpg" alt="Au centre équestre Saint-Maur des Fossés, le 18 décembre 2024." class="article-image" />
-  <p class="article-caption">Au centre équestre Saint-Maur des Fossés, le 18 décembre 2024. (Aleister Denni)</p>
-</div>
+![Au centre équestre Saint-Maur des Fossés, le 18 décembre 2024.](./au-centre-equestre-saint-maur-des-fosses.jpg "Au centre équestre Saint-Maur des Fossés, le 18 décembre 2024. (Aleister Denni)")
 
 Les trois cavaliers engagent leurs chevaux dans des tours de manège, en suivant les exercices dictés par Virginie. _«On tient les rênes dans une seule main et on fait de grands ronds avec le bras gauche»_, explique-t-elle. Au programme du jour : tours de manège et exercices de motricité sur le cheval pour développer une plus grande autonomie dans leurs gestes au quotidien. Jade et Maguelonne montent à cru – sans utiliser de selle. _«En étant en contact direct avec la peau du poney, elles ressentent plus de sensibilité dans les jambes, et ça réduit les mouvements parasites»_, explique Virginie. Et d’ajouter : _«Il y a une véritable osmose qui se crée avec l’animal : elles sont plus apaisées et ça se ressent dans leur posture.»_
 

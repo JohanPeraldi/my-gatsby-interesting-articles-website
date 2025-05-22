@@ -14,10 +14,7 @@ excerpt: 'For the first time, wild chimpanzees have been pictured eating and sha
 
 By Alex Morrison
 
-<div class="article-figure">
-  <img src="/img/chimpanzees-sharing-fruit-credit-bowland-et-al.jpg" alt="Chimpanzees sharing fruit" class="article-image" />
-  <p class="article-caption">Chimpanzees sharing fruit. Credit Anna Bowland / Cantanhez Chimpanzee Project / University of Exeter</p>
-</div>
+![Chimpanzees sharing fruit](./chimpanzees-sharing-fruit-credit-bowland-et-al.jpg "Chimpanzees sharing fruit. Credit Anna Bowland / Cantanhez Chimpanzee Project / University of Exeter")
 
 A research team led by the University of Exeter set up cameras in Guinea-Bissau’s Cantanhez National Park.
 
@@ -35,10 +32,7 @@ And [the new study](https://www.sciencedirect.com/science/article/pii/S096098222
 
 The researchers used motion-activated cameras, which filmed chimps sharing fermented fruits on 10 separate occasions.
 
-<div class="article-figure">
-  <img src="/img/two-adult-males-feed-on-fermented-african-breadfruit-credit-bowland-et-al.jpg" alt="Two adult males feed on fermented African breadfruit" class="article-image" />
-  <p class="article-caption">Two adult males feed on fermented African breadfruit. Credit Bowland et al.</p>
-</div>
+![Two adult males feed on fermented African breadfruit](./two-adult-males-feed-on-fermented-african-breadfruit-credit-bowland-et-al.jpg "Two adult males feed on fermented African breadfruit. Credit Bowland et al.")
 
 Fruit shared by these chimps was tested for alcohol content. The highest level found was the equivalent of 0.61% ABV (Alcohol By Volume – a measure used in alcoholic drinks).
 

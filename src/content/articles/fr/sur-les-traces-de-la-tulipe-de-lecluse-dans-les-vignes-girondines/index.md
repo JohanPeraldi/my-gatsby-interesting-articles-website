@@ -11,10 +11,7 @@ excerpt: "La plus rare et délicate des tulipes sauvages de France fleurit chaqu
 
 **La plus rare et délicate des tulipes sauvages de France fleurit chaque année en mars et les endroits où elle pousse sont tenus secrets. Dans le Blayais, botanistes et vignerons s'allient pour prendre soin de cette espèce protégée et repeupler les parcelles.**
 
-<div class="article-figure">
-  <img src="/img/tulipes-de-lecluse-au-chateau-le-tertre-camillac.jpg" alt="Des tulipes de l'Ecluse au château le Tertre Camillac" class="article-image" />
-  <p class="article-caption">Des tulipes de l'Ecluse au château le Tertre Camillac (Gironde). (Michel Quéral/Communimages)</p>
-</div>
+![Des tulipes de l](./tulipes-de-lecluse-au-chateau-le-tertre-camillac.jpg "Des tulipes de l'Ecluse au château le Tertre Camillac (Gironde). (Michel Quéral/Communimages)")
 
 Par Margaux Lacroux
 
@@ -26,10 +23,7 @@ Son apparition est fugace : elle ne fleurit que durant quelques semaines au déb
 
 Trouver cette pépite n'est pas aisé, puisque son emplacement exact est tenu secret par les botanistes qui la recensent soigneusement. En Gironde, on peut notamment l'observer dans le domaine viticole d'Antonio Moretto, au château le Tertre Camillac, dans les côtes de Bourg, à 45 km au nord de Bordeaux. Le vigneron, désormais à la retraite, nous conduit, ce vendredi de mars, jusqu'à sa petite protégée. Il s'est engagé à prendre soin de cette espèce historiquement présente à deux endroits de sa propriété. Et ce grâce à son ami Michel Quéral, photographe naturaliste et auteur d'un ouvrage sur les fleurs des vignes (1). _«C'est lui qui m'a mis le nez dedans, il m'a dit que j'avais un trésor. Sans son expertise, je n'aurais sans doute pas pris la mesure de la richesse qui est la nôtre. C'est la raison pour laquelle nous tentons de préserver dame nature et ce qu'elle nous donne»_, dévoile Antonio Moretto, qui affiche fièrement la fleur sur les étiquettes et les bouchons de son vin.
 
-<div class="article-figure">
-  <img src="/img/tulipa-clusiana-au-chateau-le-tertre-camillac.jpg" alt="Tulipa Clusiana au château le Tertre Camillac (Gironde), photo de Michel Quéral/Communimages" title="Tulipa Clusiana au château le Tertre Camillac (Gironde), photo de Michel Quéral/Communimages" class="article-image" />
-  <p class="article-caption">Tulipa Clusiana au château le Tertre Camillac (Gironde). (Michel Quéral/Communimages)</p>
-</div>
+![Tulipa Clusiana au château le Tertre Camillac (Gironde), photo de Michel Quéral/Communimages](./tulipa-clusiana-au-chateau-le-tertre-camillac.jpg "Tulipa Clusiana au château le Tertre Camillac (Gironde). (Michel Quéral/Communimages)")
 
 Sur proposition du CNBSA, il a accepté d'aller plus loin en réintroduisant la tulipe de l'Ecluse sur un lopin de terre supplémentaire en juin. Pour la première floraison, les résultats sont encourageants. _«J'ai compté 26 fleurs sur 190 bulbes plantés, c'est déjà bien, je ne pensais pas en voir autant la première année»_, se réjouit Sandrine Loriot, responsable du pôle conservation du Conservatoire botanique, casquette et polaire estampillés, en auscultant les vignes verdoyantes qui surplombent la Dordogne.
 

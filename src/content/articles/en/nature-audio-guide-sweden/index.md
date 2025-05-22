@@ -12,7 +12,7 @@ excerpt: 'While humans are more boisterous than ever, other species are talking 
 **While humans are more boisterous than ever, other species are talking too – this is what you will hear if you really listen.**
 
 <a href="https://www.theguardian.com/science/ng-interactive/2025/mar/29/nature-audio-guide-sweden" target="_blank" rel="noopener noreferrer">
-  <img src="/img/maddie-fischer-collage.jpg" alt="Illustrations by Maddie Fischer for The Guardian" title="Illustrations by Maddie Fischer for The Guardian" />
+  <img src="./maddie-fischer-collage.jpg" alt="Illustrations by Maddie Fischer for The Guardian" title="Illustrations by Maddie Fischer for The Guardian" />
 </a>
 
 <a href="https://www.theguardian.com/science/ng-interactive/2025/mar/29/nature-audio-guide-sweden" target="_blank" rel="noopener noreferrer">Link to original article</a>

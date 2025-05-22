@@ -11,11 +11,8 @@ excerpt: 'Le volatile a été surpris à 52 km/h dans une zone limitée à 30 km
 
 **Le volatile a été surpris à 52 km/h dans une zone limitée à 30 km/h près de Berne, a rapporté le quotidien «Berner Zeitung». A la même date il y a sept ans, un canard avait été flashé à la même vitesse, au même endroit.**
 
-<div class="article-figure">
-  <img src="/img/canard-colvert.jpg" alt="Anas platyrhynchos / Canard colvert" class="article-image" />
-  <p class="article-caption">Anas platyrhynchos / Canard colvert (Mallard Novack/Bridgeman Images. AFP)
-</p>
-</div>
+![Anas platyrhynchos / Canard colvert](./canard-colvert.jpg "Anas platyrhynchos / Canard colvert (Mallard Novack/Bridgeman Images. AFP)
+")
 
 Par Libération et AFP
 

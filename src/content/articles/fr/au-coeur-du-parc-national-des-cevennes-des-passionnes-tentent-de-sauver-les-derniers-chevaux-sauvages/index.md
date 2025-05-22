@@ -11,10 +11,7 @@ excerpt: 'Sur le causse Méjean, en Lozère, l’association Takh s’attache de
 
 **Sur le causse Méjean, en Lozère, l’association Takh s’attache depuis trente ans à sauver les chevaux de Przewalski, une espèce originaire d’Asie centrale en danger d’extinction. Mais depuis le retrait de son principal mécène, c’est pour sa survie qu’elle doit combattre.**
 
-<div class="article-figure">
-  <img src="/img/chevaux-sauvages-de-przewalski-1.jpg" alt="Les chevaux sauvages de Przewalski sur le causse Méjean, le 22 avril 2025. (Sandra Mehl/Libération)" class="article-image" />
-  <p class="article-caption">Les chevaux sauvages de Przewalski sur le causse Méjean, le 22 avril 2025. (Sandra Mehl/Libération)</p>
-</div>
+![Les chevaux sauvages de Przewalski sur le causse Méjean, le 22 avril 2025. (Sandra Mehl/Libération)](./chevaux-sauvages-de-przewalski-1.jpg "Les chevaux sauvages de Przewalski sur le causse Méjean, le 22 avril 2025. (Sandra Mehl/Libération)")
 
 Par Sarah Finger
 
@@ -22,10 +19,7 @@ Les vastes steppes du causse vibrent sous le vent. Aucun bruit humain ne vient i
 
 _«Les chevaux de Przewalski incarnent les seuls représentants des chevaux sauvages,_ résume Laurent Tatin, biologiste et chercheur associé à l’Institut méditerranéen de biodiversité et d’écologie marine et continentale. _Depuis plus de cinq mille ans, cette espèce a évolué librement, sans intervention humaine.»_ Et pour les voir, on vient de loin. Comme cette famille grenobloise dont la fillette, ainsi que son père, attendent fébrilement le début d’une visite de deux heures qui les embarquera, en 4x4 puis à pied, à proximité des équidés.
 
-<div class="article-figure">
-  <img src="/img/chevaux-sauvages-de-przewalski-2.jpg" alt="Les chevaux sauvages de Przewalski pris en charge par l’association Takh, sur le causse Méjean, le 22 avril 2025. (Sandra Mehl/Libération)" class="article-image" />
-  <p class="article-caption">Les chevaux sauvages de Przewalski pris en charge par l’association Takh, sur le causse Méjean, le 22 avril 2025. (Sandra Mehl/Libération)</p>
-</div>
+![Les chevaux sauvages de Przewalski pris en charge par l’association Takh, sur le causse Méjean, le 22 avril 2025. (Sandra Mehl/Libération)](./chevaux-sauvages-de-przewalski-2.jpg "Les chevaux sauvages de Przewalski pris en charge par l’association Takh, sur le causse Méjean, le 22 avril 2025. (Sandra Mehl/Libération)")
 
 ## Cheval sacré
 
@@ -37,10 +31,7 @@ Le dernier cheval sauvage a été aperçu en 1969 en Mongolie. Puis plus rien. C
 
 En 1992, l’association Takh achète sur le causse Méjean un hameau en ruines depuis longtemps déserté par ses habitants, Le Villaret. Elle s’y installe et fait venir sur ce site, l’année suivante, onze chevaux de Przewalski provenant de huit zoos de France, de Grande-Bretagne et d’Allemagne. Les équidés apprennent à vivre dans de très vastes enclos, sans aucune intervention humaine, sauf en cas d’urgence exceptionnelle. Ils s’acclimatent au climat lozérien et commencent à se reproduire sur ces steppes qui évoquent étonnamment celles de Mongolie. _«Ce cheval se révèle particulièrement robuste,_ note Florian Drouard, responsable du suivi des transports de chevaux à l’association Takh. _Il vit en général une vingtaine d’années, parfois beaucoup plus. Chaque jument donne naissance, au maximum, à un petit par an.»_
 
-<div class="article-figure">
-  <img src="/img/chevaux-sauvages-de-przewalski-3.jpg" alt="Le 22 avril 2025. (Sandra Mehl/Libération)" class="article-image" />
-  <p class="article-caption">Le 22 avril 2025. (Sandra Mehl/Libération)</p>
-</div>
+![Le 22 avril 2025. (Sandra Mehl/Libération)](./chevaux-sauvages-de-przewalski-3.jpg "Le 22 avril 2025. (Sandra Mehl/Libération)")
 
 ## Réintroduire l’espèce dans ses terres d’origine
 
@@ -52,10 +43,7 @@ Sur le site lozérien, quatre générations, soit 169 chevaux, se sont succédé
 
 En trois décennies, une cinquantaine d’animaux ont quitté le causse pour d’autres lieux de réintroduction et favoriser la diversité génétique des troupeaux. Outre ceux partis en Mongolie, huit ont gagné la réserve des Monts d’Azur à Thorenc (Alpes-Maritimes), six la Russie, au nord du Kazakhstan, et onze se trouvent désormais en Espagne, dans deux sites touristiques. Pour la première fois depuis 1993, des chevaux de Przewalski provenant de l’extérieur (en l’occurrence de Hongrie) devraient rejoindre dans les prochains mois ceux du causse dans l’optique d’un brassage génétique. Aucun de ces échanges ne donne lieu à une transaction financière : il ne s’agit que de dons.
 
-<div class="article-figure">
-  <img src="/img/a-la-rencontre-des-chevaux-sauvages-de-przewalski.jpg" alt="Pendant une visite immersive sur le causse Méjean, à la rencontre des chevaux de Przewalski, le 22 avril 2025. (Sandra Mehl/Libération)" class="article-image" />
-  <p class="article-caption">Pendant une visite immersive sur le causse Méjean, à la rencontre des chevaux de Przewalski, le 22 avril 2025. (Sandra Mehl/Libération)</p>
-</div>
+![Pendant une visite immersive sur le causse Méjean, à la rencontre des chevaux de Przewalski, le 22 avril 2025. (Sandra Mehl/Libération)](./a-la-rencontre-des-chevaux-sauvages-de-przewalski.jpg "Pendant une visite immersive sur le causse Méjean, à la rencontre des chevaux de Przewalski, le 22 avril 2025. (Sandra Mehl/Libération)")
 
 ## Diversifier les sources de revenus
 
@@ -65,9 +53,6 @@ Mais le milliardaire ne souhaitait pas que ses passions pèsent sur ses enfants:
 
 Afin de diversifier ses sources de revenus, Takh doit développer ses activités. Son site du Villaret accueille désormais des chercheurs, comme ces paléogénéticiens du CNRS passionnés par la collection de crânes de chevaux de Przewalski mise à leur disposition par l’association. Le suivi scientifique mené ici depuis trois décennies attire le monde universitaire, mais aussi le petit peuple des passionnés : des formations, des séjours, des animations leur sont proposés. Une boutique solidaire a ouvert au sein des locaux. Le parrainage de chevaux vient d’être lancé en ligne, sur le site de Takh. Et l’écotourisme se décline désormais au Villaret au travers de découvertes immersives, permettant même aux visiteurs de participer sur le terrain au suivi scientifique. Toutefois, aucun nouveau mécène n’a pris la place de Luc Hoffmann.
 
-<div class="article-figure">
-  <img src="/img/un-des-41-chevaux-de-przewalski.jpg" alt="Un des 41 chevaux de Przewalski du causse Méjean. (Sandra Mehl/Libération)" class="article-image" />
-  <p class="article-caption">Un des 41 chevaux de Przewalski du causse Méjean. (Sandra Mehl/Libération)</p>
-</div>
+![Un des 41 chevaux de Przewalski du causse Méjean. (Sandra Mehl/Libération)](./un-des-41-chevaux-de-przewalski.jpg "Un des 41 chevaux de Przewalski du causse Méjean. (Sandra Mehl/Libération)")
 
 Le 21 mars, Takh a reçu un soutien de poids : Ulambayar Nyamkhuu, l’ambassadrice de Mongolie en France, est venue jusqu’au Villaret pour rencontrer les salariés de l’association et ses 41 protégés. Un soutien moral qui arrive à point nommé pour Pauline Joinnault, l’une des permanentes de Takh : _«Nous avons constaté que l’ambassadrice était très au fait de l’actualité concernant les chevaux de Przewalski, et très investie sur ce dossier. Nous l’avons emmenée sur le terrain, elle a bravé la pluie pour approcher les animaux… Elle nous a dit qu’elle suivait notre situation de près.»_ En attendant, participer à la sauvegarde de la plus ancienne population de ces équidés sauvages soude les salariés de Takh. On ne renonce pas facilement à un tel cheval de bataille. Et l’équipe établie sur le causse guette les naissances. Plusieurs juments semblent prêtes, ce sera pour bientôt.

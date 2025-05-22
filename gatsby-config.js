@@ -1,11 +1,12 @@
+// gatsby-config.js
 /**
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
   siteMetadata: {
     title: `Optimist Vibe`,
-    siteUrl: `https://feel-good-articles.netlify.app/`,
-    description: "A curation of positive news from around the web",
+    siteUrl: `https://optimistvi.be`,
+    description: "A collection of positive and inspiring articles from around the web",
   },
   plugins: [
     {
@@ -18,13 +19,29 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
+        name: `images`, // optional — only needed if you use images outside markdown
         path: `${__dirname}/src/images`,
       },
     },
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 800, // adjust to your layout's max image width
+              linkImagesToOriginal: false,
+              showCaptions: true,
+              withWebp: true,
+              loading: "lazy",
+            },
+          },
+        ],
+      },
+    },
   ],
 }

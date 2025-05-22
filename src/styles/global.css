@@ -78,24 +78,13 @@ h6 {
   font-size: 1.8rem;
 }
 
-/* Article images styling - DO NOT PLACE IN article.module.css file !!! */
-.article-figure {
-  margin: 2rem 0;
-  text-align: center;
-}
-
-.article-image {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-.article-caption {
-  margin-top: 0.5rem;
-  font-style: italic;
+/* Caption styling for remark images */
+.gatsby-resp-image-figcaption {
   font-size: 0.9rem;
   color: #666;
+  text-align: center;
+  margin-top: 0.5rem;
+  font-style: italic;
 }
 
 /* Force long URLs in article content to break and wrap */
