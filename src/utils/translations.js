@@ -1,45 +1,50 @@
 // Tag and category translations for French content
 // Preferred capitalization for tags
 export const tagCapitalization = {
+  'antarctica': 'Antarctica',
+  'homo sapiens': 'Homo sapiens',
   'paleolithic': 'Paleolithic',
-  'homo sapiens': 'Homo sapiens'
 }
 
 export const tagTranslations = {
+  'animals': 'animaux',
+  'antarctica': 'Antarctique',
+  'archaeology': 'archéologie',
+  'art': 'art',
+  'biodiversity': 'biodiversité',
+  'bird conservation': 'préservation des oiseaux',
+  'cave': 'grotte',
+  'climate': 'climat',
+  'climate change': 'changement climatique',
+  'duck': 'canard',
+  'equitherapy': 'équithérapie',
+  'flowers': 'fleurs',
+  'global warming': 'réchauffement climatique',
+  'homo sapiens': 'Homo sapiens',
+  'horses': 'chevaux',
+  'mental health': 'santé mentale',
+  'moss': 'mousses',
+  'ornithotherapy': 'ornithothérapie',
+  'paleoacoustics': 'paléo-acoustique',
+  'penguins': 'manchots',
+  'plants': 'plantes',
   'positive news': 'nouvelles positives',
   'sustainability': 'durabilité',
-  'climate': 'climat',
-  'biodiversity': 'biodiversité',
-  'global warming': 'réchauffement climatique',
-  'animals': 'animaux',
-  'horses': 'chevaux',
-  'duck': 'canard',
-  'plants': 'plantes',
-  'moss': 'mousses',
-  'flowers': 'fleurs',
   'tulips': 'tulipes',
-  'bird conservation': 'préservation des oiseaux',
-  'ornithotherapy': 'ornithothérapie',
-  'mental health': 'santé mentale',
-  'equitherapy': 'équithérapie',
-  'paleoacoustics': 'paléo-acoustique',
-  'archaeology': 'archéologie',
-  'prehistory': 'préhistoire',
-  'cave': 'grotte',
-  'homo sapiens': 'Homo sapiens',
-  'art': 'art',
   'paleolithic': 'Paléolithique',
-  'unusual': 'insolite'
+  'prehistory': 'préhistoire',
+  'unusual': 'insolite',
+  'wildlife': 'faune',
 }
 
 export const categoryTranslations = {
-  'nature': 'nature',
-  'environment': 'environnement',
-  'wildlife': 'faune',
   'conservation': 'conservation',
   'ecology': 'écologie',
+  'environment': 'environnement',
   'handicap': 'handicap',
-  'science': 'science'
+  'nature': 'nature',
+  'science': 'science',
+  'wildlife': 'faune',
 }
 
 export const translateTag = (tag) => {
