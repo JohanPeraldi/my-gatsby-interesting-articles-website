@@ -3,6 +3,7 @@
 export const tagCapitalization = {
   'antarctica': 'Antarctica',
   'homo sapiens': 'Homo sapiens',
+  'luberon': 'Luberon',
   'paleolithic': 'Paleolithic',
 }
 
@@ -25,6 +26,7 @@ export const tagTranslations = {
   'homo sapiens': 'Homo sapiens',
   'horses': 'chevaux',
   'hunting': 'chasse',
+  'luberon': 'Luberon',
   'mental health': 'santé mentale',
   'moss': 'mousses',
   'ornithotherapy': 'ornithothérapie',
@@ -32,11 +34,13 @@ export const tagTranslations = {
   'penguins': 'manchots',
   'plants': 'plantes',
   'positive news': 'nouvelles positives',
+  'silence': 'silence',
   'sustainability': 'durabilité',
   'tulips': 'tulipes',
   'paleolithic': 'Paléolithique',
   'prehistory': 'préhistoire',
   'unusual': 'insolite',
+  'well-being': 'bien-être',
   'wildlife': 'faune',
 }
 

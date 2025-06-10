@@ -11,7 +11,7 @@ excerpt: 'Apparus bien avant les dinosaures, ces végétaux regroupent pas moins
 
 **Apparus bien avant les dinosaures, ces végétaux regroupent pas moins de 13 000 espèces. Dans un ouvrage savoureux et érudit, Olivier Liron dévoile les secrets de ces plantes ancestrales et quasi immortelles et nous invite à les caresser et les chérir pour renouer avec le vivant et habiter poétiquement le monde.**
 
-![Tapis de mousses](./tapis-de-mousses.jpg "Au Japon, où elles sont vénérées depuis des siècles, les mousses sont très présentes dans les jardins traditionnels. (Ippei Naoi/Getty Images)")
+![Tapis de mousses](./tapis-de-mousses.jpg 'Au Japon, où elles sont vénérées depuis des siècles, les mousses sont très présentes dans les jardins traditionnels. (Ippei Naoi/Getty Images)')
 
 Par Coralie Schaub
 
