@@ -1,5 +1,5 @@
 {
-  "name": "my-gatsby-interesting-articles-website",
+  "name": "optimist-vibe",
   "version": "1.0.0",
   "private": true,
   "description": "my-gatsby-interesting-articles-website",
@@ -12,9 +12,19 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "article": "node scripts/cli.js",
+    "article:add": "node scripts/cli.js add",
+    "article:batch": "node scripts/cli.js batch",
+    "article:rss": "node scripts/cli.js rss",
+    "article:config": "node scripts/cli.js config",
+    "article:stats": "node scripts/cli.js stats",
+    "article:interactive": "node scripts/cli.js interactive",
+    "article:setup-ollama": "node scripts/setup-ollama.js"
   },
   "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^14.0.0",
     "gatsby": "^5.14.1",
     "gatsby-plugin-image": "^3.14.0",
     "gatsby-plugin-sharp": "^5.14.0",
@@ -22,8 +32,14 @@
     "gatsby-source-filesystem": "^5.14.0",
     "gatsby-transformer-remark": "^6.14.0",
     "gatsby-transformer-sharp": "^5.14.0",
+    "inquirer": "^12.6.3",
+    "node-fetch": "^3.3.2",
     "prop-types": "^15.8.1",
+    "puppeteer": "^24.10.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "rss-parser": "^3.13.0",
+    "sharp": "^0.34.2",
+    "turndown": "^7.2.0"
   }
 }

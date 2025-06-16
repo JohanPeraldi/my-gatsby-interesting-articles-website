@@ -1,0 +1,68 @@
+{
+  "rssFeeds": {
+    "environment": [
+      "https://www.theguardian.com/environment/rss",
+      "https://www.bbc.com/news/science-environment/rss.xml",
+      "https://phys.org/rss-feed/earth-news/",
+      "https://www.nationalgeographic.com/environment/rss/",
+      "https://www.treehugger.com/feeds/atom.xml"
+    ],
+    "science": [
+      "https://www.sciencedaily.com/rss/earth_climate/environmental_science.xml",
+      "https://www.sciencedaily.com/rss/plants_animals/zoology.xml",
+      "https://www.sciencedaily.com/rss/plants_animals/ecology.xml",
+      "https://feeds.nature.com/nature/rss/current",
+      "https://www.pnas.org/rss/current.xml"
+    ],
+    "wildlife": [
+      "https://www.audubon.org/rss.xml",
+      "https://www.worldwildlife.org/rss",
+      "https://news.mongabay.com/feed/",
+      "https://www.fws.gov/news/rss.xml"
+    ],
+    "french": [
+      "https://www.lemonde.fr/planete/rss_full.xml",
+      "https://www.liberation.fr/environnement/rss/",
+      "https://www.francetvinfo.fr/monde/environnement.rss",
+      "https://www.sciencesetavenir.fr/rss/environnement.xml",
+      "https://www.geo.fr/rss/environnement"
+    ],
+    "positive": [
+      "https://www.goodnewsnetwork.org/feed/",
+      "https://www.positive.news/feed/",
+      "https://www.happinessandhope.com/feed/",
+      "https://www.upworthy.com/rss"
+    ]
+  },
+  "keywords": {
+    "include": [
+      "conservation",
+      "biodiversity",
+      "wildlife",
+      "ecosystem",
+      "sustainable",
+      "renewable",
+      "restoration",
+      "protection",
+      "recovery",
+      "breakthrough",
+      "discovery",
+      "success",
+      "positive",
+      "hope",
+      "solution"
+    ],
+    "exclude": [
+      "crisis",
+      "disaster",
+      "extinction",
+      "destruction",
+      "pollution",
+      "toxic",
+      "death",
+      "killing",
+      "tragedy",
+      "catastrophe"
+    ]
+  }
+}

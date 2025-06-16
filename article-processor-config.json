@@ -1,0 +1,10 @@
+{
+  "ai": {
+    "mode": "ollama",
+    "ollama": {
+      "model": "mistral:7b",
+      "timeout": 30000,
+      "baseUrl": "http://localhost:11434"
+    }
+  }
+}
