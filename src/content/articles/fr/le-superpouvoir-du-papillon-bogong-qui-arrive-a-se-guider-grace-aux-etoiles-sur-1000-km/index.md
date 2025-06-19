@@ -5,7 +5,7 @@ sourceUrl: 'https://www.liberation.fr/environnement/animaux/le-superpouvoir-du-p
 originalDate: '2025-06-19'
 curationDate: '2025-06-19'
 category: 'environment'
-tags: ['animals', 'butterflies', 'navigation', 'migration']
+tags: ['animals', 'insects', 'moths', 'navigation', 'migration']
 excerpt: 'Selon une étude publiée dans la revue «Nature», la capacité de l’insecte australien d’utiliser le ciel comme boussole pour son périple reproductif n’avait jusqu’alors été observée que chez les humains et certains oiseaux.'
 ---
 
