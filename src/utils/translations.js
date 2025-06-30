@@ -2,6 +2,8 @@
 // Preferred capitalization for tags
 export const tagCapitalization = {
   'antarctica': 'Antarctica',
+  'devon': 'Devon',
+  'england': 'England',
   'homo sapiens': 'Homo sapiens',
   'luberon': 'Luberon',
   'paleolithic': 'Paleolithic',
@@ -12,13 +14,17 @@ export const tagTranslations = {
   'antarctica': 'Antarctique',
   'archaeology': 'archéologie',
   'art': 'art',
+  'bear cubs': 'oursons',
+  'bears': 'ours',
   'biodiversity': 'biodiversité',
   'bird conservation': 'préservation des oiseaux',
   'birds': 'oiseaux',
   'cave': 'grotte',
   'climate': 'climat',
   'climate change': 'changement climatique',
+  'devon': 'Devon',
   'duck': 'canard',
+  'england': 'Angleterre',
   'equitherapy': 'équithérapie',
   'flowers': 'fleurs',
   'global warming': 'réchauffement climatique',
@@ -49,6 +55,7 @@ export const tagTranslations = {
   'unusual': 'insolite',
   'well-being': 'bien-être',
   'wildlife': 'faune',
+  'zoo': 'zoo'
 }
 
 export const categoryTranslations = {
